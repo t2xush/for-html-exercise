@@ -1,0 +1,114 @@
+.site_header .w {
+    border-bottom: 2px solid #ff6700;
+
+}
+
+.spc_title {
+    position: absolute;
+    left: 50px;
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    line-height: 100px;
+}
+
+.spc_title h1 {
+    font-weight: 400;
+}
+
+.spc_list {
+ 
+    width: 1200px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-collapse: collapse;
+}
+
+.spc_list tr {
+    border-top: 1px solid #e0e0e0;
+    width: 1200px;
+    height: 110px;
+}
+.spc_list .th {
+    height: 70px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.spc_list td {
+    height: 110px;
+    line-height: 110px;
+    text-align: center;
+}
+
+.spc_list input {
+    width: 18px;
+    height: 18px;
+    
+}
+
+.spc_list  .checkbox {
+    width: 100px;
+    text-align: center;
+}
+.spc_list_img {
+    width: 50px;
+}
+.spc_list_img img {
+    width: 100%;
+}
+.spc_list_name {
+    width: 400px;
+}
+.spc_list_quantity {
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    font-size: 15px;
+
+}
+.spc_list_subtotal {
+    color: #ff6700;
+}
+.spc_list .spc_list_operate a {
+    font-size: 18px;
+}
+
+.spc_last {
+    width: 1200px;
+    height: 60px;
+    margin: 0 auto;
+    background-color: #fff;
+
+}
+
+.spc_last_tocheck {
+    width: 200px;
+ 
+    line-height: 60px;
+    text-align: center;
+    background-color: #ff6700;
+    color: #fff;
+    font-size: 18px;
+}
+
+.spc_last_tocheck:hover {
+    color: #fff;
+    background-color: orangered;
+}
+
+.spc_last_total_price {
+    width: 100px;
+   line-height: 60px;
+    text-align: center;
+    color: #ff6700;
+    font-size: 30px;
+}
+
+.spc_last_total {
+    width: 50px;
+    line-height: 60px;
+     text-align: center;
+     color: #ff6700;
+     font-size: 20px;
+}

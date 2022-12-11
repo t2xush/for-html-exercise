@@ -1,0 +1,124 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.orangered {
+    color: orangered;
+}
+.gray {
+    color: rgb(147, 147, 147);
+}
+
+.shortcut {
+    height: 40px;
+    line-height: 40px;
+    background-color:#333 ;
+}
+.shortcut ul li {
+    float: left;
+    padding-right: 20px;
+    color: #b0b0b0;
+    
+}
+.shortcut ul li a {
+    color: #b0b0b0;
+    font-size: 14px;
+}
+
+
+.shortcut a:hover {
+    color: #fff;
+}
+.header .w {
+    position: relative;
+    height: 110px;
+    background-color: #fff;
+    
+}
+.logo {
+    position: absolute;
+    top: 20px;
+   
+   float: left;
+   width: 100px;
+   height: 100px;
+   /* background-color: aqua; */
+ 
+}
+
+.header ul {
+    position:absolute;
+    left: 300px;
+    line-height: 100px;
+    
+}
+.nav_list ul {
+    position: absolute;
+    left: 300px;
+}
+
+.nav_list ul li {
+    
+    float: left;
+    font-size: 18px;
+    color: rgb(223, 96, 96);
+    padding-right: 30px;
+}
+
+.search {
+    position: absolute;
+    right: 10px;
+    top: 25px;
+    
+}
+.search input {
+    width: 245px;
+    height: 50px;
+    padding-left: 10px;
+    border: 1px solid #b0b0b0;
+}
+.search button {
+    width: 52px;
+    height: 50px;
+}
+
+
+.footer{
+    height: 200px;
+    background-color: #fff;
+    margin-top: 100px;
+
+}
+   
+.footer .w {
+   position: relative;
+    padding-top: 35px;
+}
+.links {
+    position: absolute;
+    top: 35px;
+    left: 300px;
+    
+}
+.links dl{
+    float: left;
+    margin-right: 100px;
+}
+.links dl dt {
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #333;
+}
+.links dl dd a {
+    color: #757575;
+    font-size: 12px;
+}
+.links dl dd a:hover {
+    color: orangered;
+}
